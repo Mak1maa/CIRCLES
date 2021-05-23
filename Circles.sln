@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Circles", "Circles\Circles.pyproj", "{D2BD4E92-A300-4488-AC31-BEBD051BE81E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2BD4E92-A300-4488-AC31-BEBD051BE81E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2BD4E92-A300-4488-AC31-BEBD051BE81E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D4FC0F4-D6B2-4ADC-BEB8-835F6B2FCF50}
+	EndGlobalSection
+EndGlobal
